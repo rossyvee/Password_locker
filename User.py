@@ -40,7 +40,7 @@ class User:
             "password": self.password
         }
 
-    def find_by_username(self,username):
+    def find_by_username(self, username):
         """
         find user by username
         """
