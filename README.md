@@ -11,7 +11,9 @@ An application that manages login and signup credentials of a person for various
 + [Authors Info](#aut)
 
 ## Description
-Quotes App is an Angular application that allows users to add quotes,delete quotes. Users can also view hard-coded quotes and their authors. Besides, users can either or dislike quotes based on personal judgement.
+An application that manages login and signup credentials of a person for various accounts i.e. username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves.
+
+
 
  ![Screenshot] (<img src="screenshot img/Screenshot from 2022-03-21 00-18-35.png">)
 
