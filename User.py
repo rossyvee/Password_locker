@@ -32,9 +32,9 @@ class User:
         return f"My name is {self.username} and my password is {self.password}"
 
     def new_credentials(self):
-        '''
+        """
         returns new user credentials
-        '''
+        """
         return {
             "username": self.username,
             "password": self.password
