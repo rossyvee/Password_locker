@@ -41,9 +41,9 @@ class User:
         }
 
     def find_by_username(self,username):
-        '''
+        """
         find user by username
-        '''
+        """
 
         for user in self.list_of_users:
             if user.username == username:
