@@ -2,9 +2,9 @@ import string
 
 
 class User:
-    '''
+    """
     Class creates new instance of user class
-    '''
+    """
 
     list_of_users: list = []
 
