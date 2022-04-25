@@ -13,19 +13,9 @@ An application that manages login and signup credentials of a person for various
 ## Description
 An application that manages login and signup credentials of a person for various accounts i.e. username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves.
 
-
-
- ![Screenshot] (<img src="screenshot img/Screenshot from 2022-03-21 00-18-35.png">)
-
 ## Technology Used
-* Angular CLI
-* Typescript
-* HTML5
-* CSS
-* JavaScript
-* Node
-* Bootsrap
-* FontAwesome
+* python3
+*pip
 
 ## Requirements
 * A good internet connection
