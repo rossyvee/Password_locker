@@ -29,18 +29,20 @@ cd Password_Locker
 code . or atom 
 
 
-## Behaviour Drive and DEvelopment
-* [x] Input
-User Accesses the Landing Page
-Quote form displays with input fields for Author, Publisher,quote to be added or
-User Clicks Delete
-* [x] Ouput
-The quote is added/deleted from the page
-User clicks Upvote
-Upvote increases by +1 on each click
-User clicks Downvote
-Downvote decreases by -1 on each click
-[live-link](https://github.com/rossyvee/Angular-quotes-app)
+## Behaviour Drive and Development
+* upon input cc, the output prompt user to sign up by typing name and password.
+
+* upon input ca, the output prompt user to input the account name and password to store.
+
+* upon input gp, the output generates automatic password to user.
+
+* upon input fa, the output prompt user to search for an existing password account.
+
+* upon input da, the output prompt user to display existing password account.
+
+* upon input ex, the output prompt user to exist/logout.
+* 
+[live-link](https://github.com/rossyvee/Password_locker)
 ## Known Bugs
 * There are no known bugs currently. The page works as expected
 ## Reference
