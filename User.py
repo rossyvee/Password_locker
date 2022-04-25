@@ -22,9 +22,9 @@ class User:
         User.list_of_users.append(self)
 
     def delete_user(self):
-        '''
+        """
         Deletes user from list
-        '''
+        """
 
         User.list_of_users.remove(self)
 
