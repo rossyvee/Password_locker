@@ -38,9 +38,7 @@ class TestUser(unittest.TestCase):
         self.assertEqual(len(User.user_list), 1)
 
     def test_find_user_by_username(self):
-        """
-        Test  find user by username
-        """
+        """Test  find user by username"""
 
         self.new_user.create_user()
         test_user = User("roseline", "password")
