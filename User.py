@@ -16,9 +16,9 @@ class User:
         self.username = username
 
     def create_user(self):
-        '''
+        """
         Save a new user to the application
-        '''
+        """
         User.list_of_users.append(self)
 
     def delete_user(self):
