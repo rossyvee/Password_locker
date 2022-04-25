@@ -20,9 +20,13 @@ An application that manages login and signup credentials of a person for various
 ## Requirements
 * A good internet connection
 ## set up instruction and installation
- Clone or download and unzip the repository from https://github.com/rossyvee/Angular-quotes-app
-If you have git Use this command git clone * to clone the project.
-Run ng serve from your terminal
+Open Terminal {Ctrl+Alt+T}
+
+git clone https://github.com/rossyvee/Password_locker
+
+cd Password_Locker
+
+code . or atom 
 
 
 ## Behaviour Drive and DEvelopment
